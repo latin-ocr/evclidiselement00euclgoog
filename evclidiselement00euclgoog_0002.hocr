@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./evclidiselement00euclgoog_0002.png"; bbox 0 0 713 1156; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 318 176 467 249">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 318 176 467 249">
+     <span class='ocr_line' id='line_1_1' title="bbox 318 176 396 212; baseline -0.013 -6"><span class='ocrx_word' id='word_1_1' title='bbox 318 176 396 212; x_wconf 51' lang='lat'><em>5113]</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 329 214 467 249; baseline -0.007 -15"><span class='ocrx_word' id='word_1_2' title='bbox 329 217 336 242; x_wconf 60' lang='lat'><em>2¹</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 349 214 400 249; x_wconf 61' lang='grc' dir='ltr'><em>ωοἾ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 413 223 446 239; x_wconf 59' lang='lat' dir='ltr'><em>r·</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 465 239 467 241; x_wconf 67' lang='lat'>‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 529 36 613 54">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 529 36 613 54">
+     <span class='ocr_line' id='line_1_3' title="bbox 529 36 613 54; baseline 0 -16"><span class='ocrx_word' id='word_1_6' title='bbox 529 36 537 38; x_wconf 75' lang='grc'><em>.,</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 575 36 613 54; x_wconf 48' lang='lat' dir='ltr'><em>,q</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 582 101 614 157">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 582 101 614 157">
+     <span class='ocr_line' id='line_1_4' title="bbox 582 101 614 157; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 582 101 614 157; x_wconf 47' lang='grc' dir='ltr'><em>Η..</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
